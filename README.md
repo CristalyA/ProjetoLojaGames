@@ -9,7 +9,7 @@ Introdução ao Spring, é uma loja de games aonde você pode encontrar os jogos
 Projeto Spring Loja Games.
 
 <h1> Ferramentas utilizadas </h1>
-Java, Spring.
+Java, Spring, JPA.
 
 
 
